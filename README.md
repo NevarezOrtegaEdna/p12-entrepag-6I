@@ -29,3 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/NevarezOrtegaEdna/p12-entrepag-6I/assets/143743281/335f0444-18da-4d6e-af6b-833c19abf0f7)
 
+![image](https://github.com/NevarezOrtegaEdna/p12-entrepag-6I/assets/143743281/6e5ac35d-254e-45cb-bc1d-01f56b7d2575)
+
+![image](https://github.com/NevarezOrtegaEdna/p12-entrepag-6I/assets/143743281/6c0f3887-3b0e-431a-ba76-9c78cc9789ec)
+
