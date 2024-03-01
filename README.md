@@ -17,3 +17,15 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Ejemplo Navegacion entre Paginas: FlutLab - Flutter Online IDE
+
+- Links de Referencia [https://flutlan.io/docs](https://docs.flutter.dev/ui/navigation)(https://flutlab.io/editor/6755e204-3a73-4a89-acfa-8a519d9eac6b)
+- Edna Nevarez Ortega a.21308051280395@cbtis128.edu.mx
+
+## Resultado de mi Aplicacion
+
+![image](https://github.com/NevarezOrtegaEdna/p12-entrepag-6I/assets/143743281/9dc85831-0b58-4fee-b9f9-01364768b008)
+
+![image](https://github.com/NevarezOrtegaEdna/p12-entrepag-6I/assets/143743281/335f0444-18da-4d6e-af6b-833c19abf0f7)
+
